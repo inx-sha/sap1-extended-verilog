@@ -4,7 +4,7 @@ An extended implementation of the **SAP-1 (Simple As Possible)** 8-bit computer 
 
 Originally introduced by Malvino & Brown in *Digital Computer Electronics*, the SAP-1 is extended here to support all four arithmetic operations: **ADD, SUB, MUL, DIV**.
 
-**Authors:** Mohamed Nasry · Inshaf Ahamed  
+**Author:** Inshaf Ahamed  
 **Institution:** PAF-IAST, BS Computer Engineering  
 **Course:** Computer Architecture & Organization (CAO)
 
